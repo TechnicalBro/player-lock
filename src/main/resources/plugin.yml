@@ -1,0 +1,11 @@
+name: com.devsteady.playerlock.PlayerLock
+main: com.devsteady.playerlock.com.devsteady.playerlock.PlayerLock
+version: ${project.version}
+description: Administrative tool to lock players and prevent actions until they're unlocked.
+author: Brandon Curtis (TheGamersCave)
+depend: [Commons]
+commands:
+   lock:
+      usage: /lock <name>
+   unlock:
+      usage: /unlock <name>
