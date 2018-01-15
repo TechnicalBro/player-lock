@@ -6,7 +6,7 @@
 
     <groupId>com.devsteady</groupId>
     <artifactId>playerlock</artifactId>
-    <version>0.0.1-DEVELOPMENT</version>
+    <version>0.0.1</version>
 
     <build>
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
